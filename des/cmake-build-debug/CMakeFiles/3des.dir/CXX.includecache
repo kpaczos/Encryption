@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Acer/Desktop/Nowy folder/des/main.cpp
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+math.h
+-
+time.h
+-
+
